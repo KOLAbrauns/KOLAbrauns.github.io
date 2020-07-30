@@ -10,5 +10,6 @@
   * living
 
 As Astrid Lindgren said:
-> ... in der Hoffnung, dass Sie nicht das Jugendamt alarmieren! 
+
+> in der Hoffnung, dass Sie nicht das Jugendamt alarmieren! 
 
