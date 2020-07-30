@@ -1,9 +1,12 @@
 # My favourite character is Pippi Langstrumpf
-*happy 
-*crazy
-*fond of animals
-*free
-	*spirit
-	*living
+
+## fun friend rich girl
+
+* happy 
+* crazy
+* fond of animals
+* free
+  * spirit
+  * living
 
 
